@@ -1,0 +1,19 @@
+{
+  "name": "dmd-clean",
+  "version": "0.1.0",
+  "description": "Handlebars partials for tweaking the dmd templates for a bit cleaner output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rantanen/dmd-clean"
+  },
+  "author": "Mikko Rantanen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rantanen/dmd-clean/issues"
+  },
+  "homepage": "https://github.com/Rantanen/dmd-clean"
+}
